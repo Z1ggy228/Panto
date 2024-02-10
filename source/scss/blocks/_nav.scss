@@ -1,0 +1,11 @@
+.nav {
+    display: grid;
+    grid-template-columns: 2fr 8fr 2fr;
+    gap: 20px;
+
+    margin-bottom: 86px;
+}
+
+.nav__logo {
+    align-self: center;
+}

@@ -1,0 +1,18 @@
+.sub-nav {
+    padding: 20px;
+    border-radius: 16px;
+    background-color: var(--footer-bg);
+
+    color: #fff;
+    font-size: 18px;
+
+    a {
+        color: #fff;
+    }
+}
+
+.sub-nav__item{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}

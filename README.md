@@ -1,2 +1,2 @@
 # Panto
-https://z1ggy228.github.io/panto
+https://z1ggy228.github.io/Panto
